@@ -90,7 +90,7 @@ construction-pmo-analytics/
 - **Total Net Cost Overrun:** ₦15.1 billion across the entire portfolio
 - **Highest Individual Overrun:** PRJ-005 (Kano Erosion Control Phase 2) -- ₦842.8M over budget (54.1% overrun)
 - **Most Risk-Prone Phase:** Procurement -- averaging 24.1% cost overrun, the highest of all 6 project phases
-- **Worst Performing Contractor:** Horizon Builders — performance score of 25.7% across 10 projects (31.4% avg cost overrun, 42.9% avg duration overrun)
+- **Worst Performing Contractor:** Horizon Builders -- performance score of 25.7% across 10 projects (31.4% avg cost overrun, 42.9% avg duration overrun)
 - **Best Performing Contractor:** Grandeur Works -- performance score of 53.0% with the lowest avg cost overrun (18.8%)
 - **Average Schedule Delay:** 10.4 months across all active projects
 - **Top Delay Driver:** Funding delays, contractor defaults, and poor site supervision are the most frequent causes of high-risk project outcomes
